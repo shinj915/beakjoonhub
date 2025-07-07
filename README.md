@@ -115,6 +115,7 @@
 |5523. 경기 결과|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5523.%E2%80%85%EA%B2%BD%EA%B8%B0%E2%80%85%EA%B2%B0%EA%B3%BC/%EA%B2%BD%EA%B8%B0%E2%80%85%EA%B2%B0%EA%B3%BC.py)|
 |5543. 상근날드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/README.md)|
 |5597. 과제 안 내신 분．．？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5597.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%95%88%E2%80%85%EB%82%B4%EC%8B%A0%E2%80%85%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F/README.md)|
+|6887. Squares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6887.%E2%80%85Squares/Squares.c)|
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/README.md)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/%ED%95%A9.cc)|
 |8941. Molar mass|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8941.%E2%80%85Molar%E2%80%85mass/README.md)|
